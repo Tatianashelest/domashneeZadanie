@@ -1,0 +1,15 @@
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/bin/Debug/net6.0/Zadacha2
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/bin/Debug/net6.0/Zadacha2.deps.json
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/bin/Debug/net6.0/Zadacha2.runtimeconfig.json
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/bin/Debug/net6.0/Zadacha2.dll
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/bin/Debug/net6.0/Zadacha2.pdb
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.csproj.AssemblyReference.cache
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.AssemblyInfoInputs.cache
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.AssemblyInfo.cs
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.csproj.CoreCompileInputs.cache
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.dll
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/refint/Zadacha2.dll
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.pdb
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/Zadacha2.genruntimeconfig.cache
+/Users/tatanaselest/Desktop/Домашка4/Zadacha2/obj/Debug/net6.0/ref/Zadacha2.dll
